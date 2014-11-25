@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.fuhu</groupId>
-    <artifactId>jerseyGrizzly</artifactId>
+    <artifactId>JerseyWithGrizzly-BooksAPI</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>jerseyGrizzly</name>
